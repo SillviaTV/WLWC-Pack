@@ -1,0 +1,13 @@
+name = "Squishy's Status"
+filename = "sb_status-1.21.1-neoforge-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SoR0Z9p0/versions/t4aTvqbU/sb_status-1.21.1-neoforge-1.1.0.jar"
+hash-format = "sha512"
+hash = "cfff27bfa70d546734cc557c498232b67fbda1ef5325042ed8a171b95c2e93ee85a0d58a313069b0e87b20502c610c750f4ae1b9d054045f412ad91bc876f798"
+
+[update]
+[update.modrinth]
+mod-id = "SoR0Z9p0"
+version = "t4aTvqbU"

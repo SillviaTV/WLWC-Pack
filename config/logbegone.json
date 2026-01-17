@@ -1,0 +1,26 @@
+{
+  "logbegone": {
+    "phrases": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+      "Skipping Entity with id",
+      "Tried to add entity",
+      "OpenGL debug message",
+      "L'entité",
+      "L'entit�",
+      "Couldn't find template pool reference: minecraft:south",
+      "Received synced attachments from unknown entity"
+    ],
+    "regex": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+      "Skipping Entity with id",
+      "Tried to add entity",
+      "OpenGL debug message",
+      "L'entité",
+      "L'entit�",
+      "Couldn't find template pool reference: minecraft:south",
+      "Received synced attachments from unknown entity"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+name = "Cobblemon WLWC"
+author = "SillviaTV"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f262c6f675aa75c48caf4ef97ed21e5273bafcb41067e114147048175bf29faa"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.218"

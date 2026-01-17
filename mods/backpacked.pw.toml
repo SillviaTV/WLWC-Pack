@@ -1,0 +1,13 @@
+name = "Backpacked"
+filename = "backpacked-neoforge-1.21.1-3.0.0-rc.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "571ad4b8873ed23c91d57386f175864ac6f0f8b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7473247
+project-id = 352835

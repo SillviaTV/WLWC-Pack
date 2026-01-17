@@ -1,0 +1,13 @@
+name = "Bird Nests"
+filename = "birdnest-neoforge-1.2.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lCSBuaOg/versions/fUTMK5Fb/birdnest-neoforge-1.2.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "463d7e8d2a3433a3a8332b28e179489a06399176a8395705f30215c864dd0f24db3ddad4f00fd78bfd039ed33bb902285dd7741171ba352a59a8dd2a1fa9aa91"
+
+[update]
+[update.modrinth]
+mod-id = "lCSBuaOg"
+version = "fUTMK5Fb"

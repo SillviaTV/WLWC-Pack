@@ -1,0 +1,5 @@
+#Block Swap Redux v0.1.2
+[replacements]
+	#List of block replacements in format: 'modid:block_from=modid:block_to'
+	#Example: ['minecraft:stone=minecraft:gold_block', 'minecraft:dirt=minecraft:iron_block']
+	block_replacements = ['minecraft:bee_nest=minecraft:air', 'bountifulfares:wild_carrots=farmersdelight:wild_carrots', 'bountifulfares:wild_potatoes=farmersdelight:wild_potatoes', 'farmersdelight:rice_bale=cobblemon:hearty_grain_bale']
